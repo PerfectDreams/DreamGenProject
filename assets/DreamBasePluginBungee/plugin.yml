@@ -1,0 +1,4 @@
+name: {projectName}
+main: net.perfectdreams.{lProjectName}.{projectName}
+version: 1.0.0
+softdepend: ["DreamCoreBungee"]

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="{projectName}:jar">
+    <output-path>C:\Users\Whistler\Documents\Minecraft Servers\PocketDreams v2\PluginExport</output-path>
+    <root id="archive" name="{projectName}.jar">
+      <element id="module-output" name="{projectName}" />
+      <element id="file-copy" path="$PROJECT_DIR$/{projectName}/plugin.yml" />
+	  <element id="dir-copy" path="$PROJECT_DIR$/{projectName}/src" />
+    </root>
+  </artifact>
+</component>
